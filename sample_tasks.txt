@@ -1,0 +1,10 @@
+SkillAudit.ai Week 1 - 8 sample tasks
+
+1. Write a function that reverses a string.
+2. Write a function that counts vowels in a string.
+3. Write a function that calculates the factorial of a number.
+4. Write a function that checks whether a number is prime.
+5. Write a function that removes duplicates from a list.
+6. Write a function that returns the largest number in a list.
+7. Write a function that counts the frequency of words in a list.
+8. Write a function that sorts a dictionary by its values.
